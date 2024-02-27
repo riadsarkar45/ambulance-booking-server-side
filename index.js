@@ -49,7 +49,7 @@ async function run() {
         const transporter = nodemailer.createTransport({
             service: 'gmail',
             auth: {
-                user: 'riadsarkar15@gmail.com',
+                user: 'your gmail account',
                 pass: 'your app password'
             }
         });
