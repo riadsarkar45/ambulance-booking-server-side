@@ -50,7 +50,7 @@ async function run() {
             service: 'gmail',
             auth: {
                 user: 'riadsarkar15@gmail.com',
-                pass: 'clsd ekwr sqbx bsnq '
+                pass: 'your app password'
             }
         });
 
